@@ -1,0 +1,5 @@
+# pulling down webpage html
+requests
+
+# parsing webpage html
+bs4
